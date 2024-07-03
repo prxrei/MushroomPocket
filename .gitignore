@@ -1,0 +1,5 @@
+bin
+obj
+migrations
+.vs
+.vscode
